@@ -1,0 +1,6 @@
+.Banner img {
+    margin: auto;
+    width: -webkit-fill-available;
+    height: 200px;
+    object-fit: cover
+}
